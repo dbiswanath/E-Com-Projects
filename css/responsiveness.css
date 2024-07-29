@@ -1,0 +1,21 @@
+@media screen and (max-width : 1200px) {
+    body{
+        background-color: aqua;
+    }
+    nav{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .icons{
+        flex-direction: column;
+        justify-content: center;
+        display: inline flex;
+    }
+    .category{
+        flex-direction: column;
+    }
+    
+    
+   
+    
+}
