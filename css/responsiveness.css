@@ -4,18 +4,10 @@
     }
     nav{
         flex-direction: column;
-        justify-content: center;
     }
     .icons{
         flex-direction: column;
         justify-content: center;
         display: inline flex;
     }
-    .category{
-        flex-direction: column;
-    }
-    
-    
-   
-    
 }
